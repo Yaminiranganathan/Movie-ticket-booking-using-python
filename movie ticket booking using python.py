@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
 
 
 print('                                WELCOME TO BOOK MY SHOW                              ')
@@ -160,13 +159,7 @@ if a==2:
             
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
 
 
 
